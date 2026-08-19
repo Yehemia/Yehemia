@@ -1,62 +1,169 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Yehemia%20Gwan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer%20%C2%B7%20Aspiring%20Backend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yehemia+%F0%9F%91%8B;Information+Systems+Student;Mobile+%26+Web+Developer;Aspiring+Backend+Engineer;Currently+learning+Go+%F0%9F%90%B9;Building+practical+digital+solutions" alt="Typing SVG" />
-</a>
-</div>
-👨‍💻 About Me
-I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently, I'm expanding my skills into backend engineering by exploring Go, backend architecture, and scalable application development.
-🔭 Currently working on Sundevia — a Sunday School management and learning platform
-🌱 Currently learning Go and backend architecture
-🎓 Assistant Lecturer for several informatics courses
-🌐 Portfolio: gwanversee.vercel.app
-📍 Pangkalan Bun, Indonesia
-🛠️ Tech Stack
-<div align="center">
-Mobile
-https://skillicons.dev
-Web
-https://skillicons.dev
-Backend
-https://skillicons.dev
-Database & Tools
-https://skillicons.dev
-</div>
-🚀 Featured Project
-📚 Sundevia
-A modern Sunday School management and learning platform designed to connect teachers, students, and learning activities through a digital experience.
-Table
-Area	Stack
-Mobile	Flutter
-Backend	Go, FastAPI
-Database & Infrastructure	PostgreSQL, Docker, Cloudflare R2
-🎓 Experience
-Assistant Lecturer
-Analysis and Design of Information Systems
-Object Oriented Programming (OOP)
-Dasar Pemrograman Sistem Informasi
-Pengenalan Teknologi Informasi
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yehemia&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehemia&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Yehemia&theme=github-dark-blue&hide_border=true"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yehemia&theme=github-compact&hide_border=true&area=true" width="95%"/>
-</div>
-🐍 Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yehemia/Yehemia/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yehemia/Yehemia/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yehemia/Yehemia/output/github-snake-dark.svg"/>
-</picture>
-</div>
-🤝 Connect With Me
-<div align="center">
-mailto:fortir64@gmail.com
-https://www.linkedin.com/in/yehemiagwan/
-https://gwanversee.my.id/
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://res.cloudinary.com/dblcx62nm/image/upload/v1787105989/header_qfjisq.svg" width="100%" alt="Yehemia — Software Engineer" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=Information+Systems+Student;Mobile+%26+Web+Developer;Aspiring+Backend+Engineer;Building+with+Flutter+%26+Go" alt="Typing SVG" />
+  </a>
+</p>
+
+<br/>
+
+<!-- About Me -->
+## 🧑‍💻 About Me
+
+I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently expanding into backend engineering — learning **Go**, exploring scalable architecture, and strengthening software engineering fundamentals.
+
+When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
+
+<br/>
+
+<!-- Current Focus -->
+## 🎯 Current Focus
+
+- Building **[Sundevia](#-featured-project)** — a Sunday School management platform
+- Deepening backend engineering with **Go**
+- Developing mobile applications with **Flutter**
+- Exploring backend architecture & scalable application design
+
+<br/>
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Mobile Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend Development**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+<br/>
+
+<!-- Featured Project -->
+## 🚀 Featured Project
+
+### Sundevia
+
+> A modern Sunday School management and learning platform — connecting teachers, students, and learning activities through a digital experience.
+
+<table>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>🟢 Active Development</td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><strong>AI Service</strong></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Experience -->
+## 🎓 Academic & Teaching Experience
+
+**Assistant Lecturer** at Satya Wacana Christian University:
+
+| Course | Topics |
+|--------|--------|
+| **Analysis & Design of Information Systems** | System analysis, design, modeling concepts |
+| **Object Oriented Programming** | OOP fundamentals, classes, inheritance, polymorphism |
+| **Dasar Pemrograman Sistem Informasi** | Python fundamentals, basic programming |
+| **Pengenalan Teknologi Informasi** | HTML, CSS, JavaScript, Bootstrap |
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yehemia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8&ring_color=0ea5e9" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehemia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehemia&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b&stroke=1e293b" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<!-- Connect -->
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:fortir64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yehemiagwan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://gwanversee.my.id/">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+    &nbsp;
+  <a href="https://www.instagram.com/yh.wann?igsh=MW1jcXFrZG5vcDQyYw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
