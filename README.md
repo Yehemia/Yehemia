@@ -15,7 +15,7 @@
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently expanding into backend engineering — learning **Go**, exploring scalable architecture, and strengthening software engineering fundamentals.
+I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently expanding into backend engineering learning **Go**, exploring scalable architecture, and strengthening software engineering fundamentals.
 
 When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 
@@ -60,6 +60,7 @@ When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Database**
 
