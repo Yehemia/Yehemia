@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30&lines=Information+Systems+Student;Mobile+%26+Web+Developer;Aspiring+Backend+Engineer;Building+with+Flutter+%26+Go" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&height=30" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently expanding into backend engineering learning **Go**, exploring scalable architecture, and strengthening software engineering fundamentals.
+I'm an Information Systems student passionate about building practical digital solutions through mobile and web development. Currently expanding into backend engineering learning **Go**, exploring modern architectures, and refining my product-thinking approach.
 
 When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 
@@ -24,7 +24,7 @@ When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 <!-- Current Focus -->
 ## 🎯 Current Focus
 
-- Building **[Sundevia](#-featured-project)** — a Sunday School management platform
+- Building **Sundevia** — a Sunday School management platform
 - Deepening backend engineering with **Go**
 - Developing mobile applications with **Flutter**
 - Exploring backend architecture & scalable application design
@@ -78,45 +78,6 @@ When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 
 <br/>
 
-<!-- Featured Project -->
-## 🚀 Featured Project
-
-### Sundevia
-
-> A modern Sunday School management and learning platform — connecting teachers, students, and learning activities through a digital experience.
-
-<table>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>🟢 Active Development</td>
-  </tr>
-  <tr>
-    <td><strong>Mobile</strong></td>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><strong>AI Service</strong></td>
-    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><strong>Infrastructure</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- Experience -->
 ## 🎓 Academic & Teaching Experience
 
@@ -135,13 +96,13 @@ When I'm not coding, you'll find me hiking and climbing mountains. 🏔️
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yehemia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8&ring_color=0ea5e9" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yehemia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8&ring_color=0ea5e9&custom_title=GitHub%20Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehemia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehemia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehemia&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=64748b&stroke=1e293b" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehemia&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8" />
 </p>
 
 <br/>
